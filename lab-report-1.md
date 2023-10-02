@@ -2,4 +2,4 @@
 
 Using `cd`, `ls`, and `cat` with varying arguments to observe behavior.
 
-![Image](cse15l-lab-reports/cd-with-no-args.png)
+![Image](https://sssssrrt01.github.io/cse15l-lab-reports/cd-with-no-args.png)
