@@ -8,4 +8,5 @@
 * Lab Report 5
 ---
 > Unreleased labs will not be linked.
-Please do not try 'sudo -rm -rf' in your terminal.
+
+Please do not try `sudo -rm -rf` in your terminal.
