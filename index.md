@@ -1,7 +1,7 @@
 # CSE 15L Lab Reports Page
 **Haoting Huang, A17402009**
 ## **Lab Report Links**
-* [Lab Report 1](cse15l-lab-reports/lab-report-1)
+* [Lab Report 1](https://sssssrrt01.github.io/cse15l-lab-reports/lab-report-1.html)
 * Lab Report 2
 * Lab Report 3
 * Lab Report 4
