@@ -18,3 +18,11 @@ Using ls without arguments shows the path of the current working directory.
 Using ls with a directory will show the paths of that directory.
 
 Using ls with a file argument will bounce an error.
+
+## Using `cat`
+![Image](https://sssssrrt01.github.io/cse15l-lab-reports/cat.png)
+Using ls without arguments shows the path of the current working directory.
+
+Using ls with a directory will show the paths of that directory.
+
+Using ls with a file argument will bounce an error.
