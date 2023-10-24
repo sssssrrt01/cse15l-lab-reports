@@ -12,11 +12,11 @@ I used the Server file provided from the previous lab assignment.
 ![Image](lab2-example2-1.png)
 
 Which methods in your code are called?
-Example 1:
-Example 2:
+For both examples, we start off by running the main method of the ```StringServer``` class, starting a server with port 4000 in my specific case.
 
 What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-- Example 1:
+- Example 1: # The first method call is the start method of class Server, which creates a HttpServer object with socket at port 4000, and uses the Handler class in ```StringServer```.
+
 - Example 2:
 
 
