@@ -1,8 +1,8 @@
 # Lab Report 2 - Servers and SSH Keys
 
 Code for ```StringServer``` and ```Server```
-![Image](https://github.com/sssssrrt01/cse15l-lab-reports/lab2-stringserver-code-1.png)
-![Image](https://github.com/sssssrrt01/cse15l-lab-reports/lab2-server-code-1.png)
+![Image](lab2-stringserver-code-1.png)
+![Image](lab2-server-code-1.png)
 
 I used the Server file provided from the previous lab assignment.
 
