@@ -1,5 +1,6 @@
 # Lab Report 2 - Servers and SSH Keys
 
+## Part 1
 Code for ```StringServer``` and ```Server```
 ![Image](lab2-stringserver-code-1.png)
 ![Image](lab2-server-code-1.png)
@@ -46,5 +47,7 @@ Example 1:
 - Next, I type this URL into my browser: ```localhost:4000/add-message?=image_test_abcdedfesfesfsfsf``` Since we had declared the ```/``` context, it will read the next section as a path in the ```handleRequest``` method of ```StringServer.Handler```. It will see that it does indeed contain ```/add-message```, and it will accordingly get the parameters by splitting the equal sign, forming an array with the [0] element being `"s"` and [1] element being ```"image_test_abcdedfesfesfsfsf"```. The following if statement will be true, as the value of the String s is indeed true when the ```.equals()``` method of the String class is called with the parameter "s". This will then continue evaluating the if statement of the block. At this point, we have two global parameters: ```num``` and ```outputString```. It will read the current ```parameter[1]``` value, which is ```"image_test_abcdedfesfesfsfsf"```, and concatenate a String in the format ```(num + ". " + parameters[1] + "\n')```, and add that to ```outputString```, which would be what is displayed within the page. Afterwards, ```num``` is incremented by 1, and the page is updated (as seen in the following screenshot).
 
 - The values that changed after the call are: ```num```, which is now incremented by 1 and holds the value 6, and ```outputString```, which now holds the value ```"1. hello\n2. gg\n3.aaaaaa\n4. 123124124124124124\n5. image_test_abcdedfesfesfsfsf```
+
+## Part 2
 
 
