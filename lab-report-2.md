@@ -16,8 +16,8 @@ Example 1:
 Example 2:
 
 What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-Example 1:
-Example 2:
+- Example 1:
+- Example 2:
 
 
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
