@@ -56,7 +56,13 @@ The path to my public key is ```~/.ssh/id_rsa.pub```
 The path to my private key is ```~/.ssh/id_rsa```
 
 
+ssh into ieng6 remote server without using password
+![Image](lab2-ssh-autologin.png)
 
+## Part 3
+I feel that in these couple weeks of lab, I have learned a lot of things that I did not know. I knew basics of navigating directories, but one thing I have learned recently is the meaning of tilda, two periods, and one period as path arguments.
+
+Something else that I have learned is how to access a remote server, use it, and how it behaves (such as not being able to access the remote files locally). I have learned the use of GitHub for purposes other than simply as a file tracking/save system as well.
 
 
 
