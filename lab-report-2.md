@@ -49,5 +49,10 @@ Example 1:
 - The values that changed after the call are: ```num```, which is now incremented by 1 and holds the value 6, and ```outputString```, which now holds the value ```"1. hello\n2. gg\n3.aaaaaa\n4. 123124124124124124\n5. image_test_abcdedfesfesfsfsf```
 
 ## Part 2
+![Image](lab2-public-key-location.png)
+The path to my public key is ```~/.ssh/id_rsa.pub```
+The path to my privaste is ```~/.ssh/id_rsa```
+
+
 
 
