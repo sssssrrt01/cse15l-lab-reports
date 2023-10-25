@@ -50,6 +50,7 @@ Example 1:
 
 ## Part 2
 ![Image](lab2-public-key-location.png)
+
 The path to my public key is ```~/.ssh/id_rsa.pub```
 The path to my privaste is ```~/.ssh/id_rsa```
 
