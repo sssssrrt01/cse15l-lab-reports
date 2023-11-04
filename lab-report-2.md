@@ -23,6 +23,10 @@ For both examples, we start off by running the main method of the ```StringServe
 The Handler will call the ```handleRequest``` method which takes a URI as input and will get that from the HttpExchange ```.getRequestURI``` method, and it will also call the ```getQuery(URI)``` 
 method, which will parse the query I have entered in the link. The server starts with port 4000 in my specific case, as the input String[] args will just be an array with a singular String ```4000```, and ```int port = Integer.parseInt("4000")```.
 
+The methods include:
+HttpServer methods: ```start```, ```createContext```, ```create```
+OutputStream methods: ```write```, ```close```, 
+
 
 Example 1:
 - The URI input, called url, throughout the file is ```localhost:4000/add-message?=123124124124124124```.
