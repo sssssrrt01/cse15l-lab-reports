@@ -50,10 +50,11 @@ Example 1:
 
 ## Part 2
 ![Image](lab2-public-key-location.png)
+The path to my public key on local is ```~/.ssh/id_rsa.pub```
+The path to my private key on local is ```~/.ssh/id_rsa```
 
-The path to my public key is ```~/.ssh/id_rsa.pub```
-
-The path to my private key is ```~/.ssh/id_rsa```
+<img width="249" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/2910ab12-7b3c-4ef2-bbb4-12ef49e37f94">
+The path to my public key on the ieng6 server is ```~/.ssh/authorized_keys```
 
 
 ssh into ieng6 remote server without using password
