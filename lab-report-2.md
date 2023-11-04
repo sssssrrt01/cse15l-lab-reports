@@ -16,7 +16,13 @@ Which methods in your code are called?
 What are the relevant arguments to those methods, and the values of any relevant fields of the class? 
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 
-For both examples, we start off by running the main method of the ```StringServer``` class, starting a server with port 4000 in my specific case, as the input String[] args will just be an array with a singular String ```4000```, and ```int port = Integer.parseInt("4000")```.
+For both examples, we start off by running the main method of the ```StringServer``` class, starting a server with the ```start``` method of the class Server and a new Handler() object from the StringServer.java file. 
+
+
+
+The Handler will call the ```handleRequest``` method which takes a URI as input and will get that from the HttpExchange ```.getRequestURI``` method, and it will also call the ```getQuery(URI)``` 
+method, which will parse the query I have entered in the link. The server starts with port 4000 in my specific case, as the input String[] args will just be an array with a singular String ```4000```, and ```int port = Integer.parseInt("4000")```.
+
 
 Example 1:
 - The URI input, called url, throughout the file is ```localhost:4000/add-message?=123124124124124124```.
@@ -53,7 +59,10 @@ Example 1:
 The path to my public key on local is ```~/.ssh/id_rsa.pub```
 The path to my private key on local is ```~/.ssh/id_rsa```
 
+
 <img width="249" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/2910ab12-7b3c-4ef2-bbb4-12ef49e37f94">
+
+
 The path to my public key on the ieng6 server is ```~/.ssh/authorized_keys```
 
 
