@@ -24,8 +24,15 @@ The Handler will call the ```handleRequest``` method which takes a URI as input 
 method, which will parse the query I have entered in the link. The server starts with port 4000 in my specific case, as the input String[] args will just be an array with a singular String ```4000```, and ```int port = Integer.parseInt("4000")```.
 
 The methods include:
-HttpServer methods: ```start```, ```createContext```, ```create```
-OutputStream methods: ```write```, ```close```, 
+HttpServer methods: ```start```, ```createContext```, ```create```  
+OutputStream methods: ```write```, ```close```  
+HttpExchange methods: ```getRequestURI```, ```getResponseBody```  
+String methods: ```toString```, ```getBytes```, ```format```    
+Integer methods: ```parseInt```  
+URI methods: ```getPath```, ```getQuery```  
+Server methods: ```start```, 
+
+
 
 
 Example 1:
