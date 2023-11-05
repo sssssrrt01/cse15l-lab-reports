@@ -68,3 +68,17 @@ After:
 
 Fixes: We are assigning values to the wrong array because we are taking the values of newArray (all 0's) and putting them into arr.
 I also changed the return to be newArray.
+
+
+## Part 2
+Find command:  
+<img width="904" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/4d1540a2-09f5-4cea-ba6a-3a292312fd99">
+<img width="485" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/118885a7-849e-4052-ba11-62ff1bf628a3">
+<img width="465" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/524a2b3a-7dd9-49f6-9026-a4933bd68661">
+
+
+
+
+## Works Cited
+
+
