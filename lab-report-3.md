@@ -72,8 +72,13 @@ I also changed the return to be newArray.
 
 ## Part 2
 Find command:  
-<img width="687" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ffd010ec-e818-490d-9c6b-8f3fb8616f97">
+<img width="687" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ffd010ec-e818-490d-9c6b-8f3fb8616f97">  
+
+Command 1 output: Find all files of under 1 MB and puts it into stuff.txt  
 <img width="640" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/c9ef8afd-5761-4d6c-947a-c4f08a75cb01">
+  
+
+Command 2 output: Find all directories of under 1 MB and puts it into stuff2.txt  
 <img width="390" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/38730f14-bd56-4f54-bac6-b6324b9fcaa9">
 
 
