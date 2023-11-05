@@ -82,6 +82,11 @@ Command 2 output: Find all directories and puts it into stuff2.txt
 <img width="387" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3430624d-cafa-4b57-bcb0-bd37fc2ed1ee">
 
 
+**Using -name:**  
+<img width="703" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/45aa7437-dfa6-483d-83ad-3537ed188674">
+
+Command 3 output: Find all files that are named Survey.txt  
+<img width="703" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/5fc16607-b612-44a2-b1dc-835cf934463d">
 
 
 ## Works Cited
