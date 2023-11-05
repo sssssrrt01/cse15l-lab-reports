@@ -92,6 +92,19 @@ Command 3 output: Find all files that are named Survey.txt
 Command 4 output: Find all things that are named Media (Directories in this case):  
 <img width="320" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/63e392f9-c0d9-4648-a0c6-ba90c3e0e538">
 
+
+**Using -size:**  
+<img width="713" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/cd5577ce-1e9e-403d-84ff-7a0d090b8ed1">
+
+  
+Command 5 output: Find all files that are greater than 10 kilobytes:  
+<img width="625" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3a5a004-0750-46d7-8ab4-b39425cf84aa">
+
+  
+Command 6 output: Find all directories that are greater than 10 kilobytes:  
+<img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">
+
+
 ## Works Cited
 
 
