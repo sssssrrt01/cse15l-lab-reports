@@ -124,5 +124,7 @@ Command 8 output: Find all files that are newer than the chapter-2.txt file in t
 This command is useful because we may want to find all files or all directories that are created before or after a certain date. ```-newer``` allows us to do that.
 
 
-
+## Works Cited
+https://linux.die.net/man/1/find
+All of the information used in part 2 was found from the official Linux documentation.
 
