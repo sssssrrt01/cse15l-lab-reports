@@ -2,9 +2,9 @@
 
 ## Part 1
 
+Bugged code:  
+
 ```
-
-
 public class ArrayExamples {
 
   // Changes the input array to be in reversed order
@@ -41,6 +41,22 @@ public class ArrayExamples {
   }
 
 
+}
+```
+
+JUnit Test:  
+```
+import static org.junit.Assert.*;
+
+
+import org.junit.*;
+
+public class ArrayTests {
+  @Test
+   public void lab4Test() {
+    int[] input1 = {1, 2, 3, 4};
+    assertArrayEquals(new int[]{4, 3, 2, 1}, ArrayExamples.reversed(input1));
+  }
 }
 ```
 
