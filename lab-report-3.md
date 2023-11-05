@@ -72,9 +72,9 @@ I also changed the return to be newArray.
 
 ## Part 2
 Find command:  
-<img width="904" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/4d1540a2-09f5-4cea-ba6a-3a292312fd99">
-<img width="485" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/118885a7-849e-4052-ba11-62ff1bf628a3">
-<img width="465" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/524a2b3a-7dd9-49f6-9026-a4933bd68661">
+<img width="687" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ffd010ec-e818-490d-9c6b-8f3fb8616f97">
+<img width="640" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/c9ef8afd-5761-4d6c-947a-c4f08a75cb01">
+<img width="390" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/38730f14-bd56-4f54-bac6-b6324b9fcaa9">
 
 
 
