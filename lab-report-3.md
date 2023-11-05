@@ -80,7 +80,8 @@ Command 1 output: Find all files and puts it into stuff.txt
 
 Command 2 output: Find all directories and puts it into stuff2.txt  
 <img width="387" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3430624d-cafa-4b57-bcb0-bd37fc2ed1ee">
-  
+
+This command is useful because it allows us to discriminate between files and directories and search accordingly.  
   
   
   
@@ -93,7 +94,7 @@ Command 3 output: Find all files that are named Survey.txt
 
 Command 4 output: Find all things that are named Media (Directories in this case):  
 <img width="320" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/63e392f9-c0d9-4648-a0c6-ba90c3e0e538">
-  
+This command is useful because it allows us to search for a file or a directory by a specific name. For instance, we might know the name of a file but not where it is downloaded to.  
   
   
   
@@ -107,7 +108,7 @@ Command 5 output: Find all files that are greater than 10 kilobytes:
   
 Command 6 output: Find all directories that are greater than 10 kilobytes:  
 <img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">
-  
+This command is useful because we can search for directories and files that are of a certain size range, or greater/less than.  
   
   
   
@@ -120,9 +121,8 @@ Command 7 output: Find all files that are newer than the biomed directory:
 
 Command 8 output: Find all files that are newer than the chapter-2.txt file in the 911report directory:  
 <img width="643" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ccbebdef-d2e3-471a-a839-0c585e18c3fc">
+This command is useful because we may want to find all files or all directories that are created before or after a certain date. ```-newer``` allows us to do that.
 
 
-
-## Works Cited
 
 
