@@ -71,7 +71,7 @@ I also changed the return to be newArray.
 
 
 ## Part 2
-**Using -type:  **
+**Using -type:**  
 <img width="623" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/7e200dec-bc5d-4525-a367-437f66d9a89a">
 
 Command 1 output: Find all files and puts it into stuff.txt  
