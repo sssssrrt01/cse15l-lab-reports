@@ -89,7 +89,7 @@ Command 3 output: Find all files that are named Survey.txt
 <img width="389" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/163c770e-840d-4aea-87e5-8d1be2650ab0">
 
 
-Command 4 output: Find all things that are named Media (Directories in this case):
+Command 4 output: Find all things that are named Media (Directories in this case):  
 <img width="320" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/63e392f9-c0d9-4648-a0c6-ba90c3e0e538">
 
 ## Works Cited
