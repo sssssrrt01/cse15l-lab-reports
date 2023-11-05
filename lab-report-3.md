@@ -99,32 +99,32 @@ This command is useful because it allows us to search for a file or a directory 
   
   
 **3) Using -size:**  
-<img width="713" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/cd5577ce-1e9e-403d-84ff-7a0d090b8ed1">
+<img width="713" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/cd5577ce-1e9e-403d-84ff-7a0d090b8ed1">  
 
   
 Command 5 output: Find all files that are greater than 10 kilobytes:  
-<img width="625" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3a5a004-0750-46d7-8ab4-b39425cf84aa">
+<img width="625" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3a5a004-0750-46d7-8ab4-b39425cf84aa">  
 
   
 Command 6 output: Find all directories that are greater than 10 kilobytes:  
-<img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">
+<img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">  
 This command is useful because we can search for directories and files that are of a certain size range, or greater/less than.  
   
   
   
 **4) Using -newer:**  
-<img width="879" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8cc97607-5c49-4c34-bc7b-d9cd20db2b90">
+<img width="879" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8cc97607-5c49-4c34-bc7b-d9cd20db2b90">  
 
 
 Command 7 output: Find all files that are newer than the biomed directory:  
-<img width="619" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/6ba7c595-aa39-4b6d-9d24-541364dd24c4">
+<img width="619" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/6ba7c595-aa39-4b6d-9d24-541364dd24c4">  
 
 Command 8 output: Find all files that are newer than the chapter-2.txt file in the 911report directory:  
-<img width="643" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ccbebdef-d2e3-471a-a839-0c585e18c3fc">
+<img width="643" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ccbebdef-d2e3-471a-a839-0c585e18c3fc">  
 This command is useful because we may want to find all files or all directories that are created before or after a certain date. ```-newer``` allows us to do that.
 
 
 ## Works Cited
-[https://linux.die.net/man/1/find]  
+[Linux Documentation for find](https://linux.die.net/man/1/find)  
 All of the information used in part 2 was found from the official Linux documentation.
 
