@@ -27,7 +27,7 @@ import org.junit.*;
 
 public class ArrayTests {
   @Test
-   public void lab4Test() {
+   public void lab4TestFailing() {
     int[] input1 = {1, 2, 3, 4};
     assertArrayEquals(new int[]{4, 3, 2, 1}, ArrayExamples.reversed(input1));
   }
