@@ -125,6 +125,6 @@ This command is useful because we may want to find all files or all directories 
 
 
 ## Works Cited
-https://linux.die.net/man/1/find
+[https://linux.die.net/man/1/find]  
 All of the information used in part 2 was found from the official Linux documentation.
 
