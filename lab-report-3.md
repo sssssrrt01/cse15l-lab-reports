@@ -82,6 +82,8 @@ Command 2 output: Find all directories and puts it into stuff2.txt
 <img width="387" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3430624d-cafa-4b57-bcb0-bd37fc2ed1ee">
 
 
+
+  
 **2) Using -name:**  
 <img width="703" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/45aa7437-dfa6-483d-83ad-3537ed188674">
 
@@ -93,6 +95,8 @@ Command 4 output: Find all things that are named Media (Directories in this case
 <img width="320" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/63e392f9-c0d9-4648-a0c6-ba90c3e0e538">
 
 
+
+  
 **3) Using -size:**  
 <img width="713" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/cd5577ce-1e9e-403d-84ff-7a0d090b8ed1">
 
@@ -104,6 +108,9 @@ Command 5 output: Find all files that are greater than 10 kilobytes:
 Command 6 output: Find all directories that are greater than 10 kilobytes:  
 <img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">
 
+
+
+  
 **4) Using -newer:**  
 <img width="879" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8cc97607-5c49-4c34-bc7b-d9cd20db2b90">
 
