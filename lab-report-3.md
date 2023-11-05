@@ -104,6 +104,17 @@ Command 5 output: Find all files that are greater than 10 kilobytes:
 Command 6 output: Find all directories that are greater than 10 kilobytes:  
 <img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">
 
+**Using -newer:**  
+<img width="879" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8cc97607-5c49-4c34-bc7b-d9cd20db2b90">
+
+
+Command 7 output: Find all files that are newer than the biomed directory:  
+<img width="619" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/6ba7c595-aa39-4b6d-9d24-541364dd24c4">
+
+Command 8 output: Find all files that are newer than the chapter-2.txt file in the 911report directory:  
+<img width="643" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ccbebdef-d2e3-471a-a839-0c585e18c3fc">
+
+
 
 ## Works Cited
 
