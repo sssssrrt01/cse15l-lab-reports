@@ -39,7 +39,8 @@ public class ArrayTests {
   }
 }
 ```
-
+lab4TestFailing will result in a failing Junit test.  
+lab4TestPassing will result in a passing Junit test.  
 <img width="1061" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/092a9389-1207-41b7-a2d1-4884b4c6b0fb">
 
 
