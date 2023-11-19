@@ -78,11 +78,37 @@ find ./technical -type d > "stuff2.txt"
 ```
 
 Command 1 output: Find all files and puts it into stuff.txt  
-<img width="613" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8d256c61-645a-421e-891d-ae08cf78ba60">
-  
+```
+./technical/government/About_LSC/LegalServCorp_v_VelazquezSyllabus.txt
+./technical/government/About_LSC/Progress_report.txt
+./technical/government/About_LSC/Strategic_report.txt
+./technical/government/About_LSC/Comments_on_semiannual.txt
+./technical/government/About_LSC/Special_report_to_congress.txt
+./technical/government/About_LSC/CONFIG_STANDARDS.txt
+./technical/government/About_LSC/commission_report.txt
+./technical/government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
+./technical/government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
+./technical/government/About_LSC/LegalServCorp_v_VelazquezOpinion.txt
+./technical/government/About_LSC/diversity_priorities.txt
+./technical/government/About_LSC/reporting_system.txt
+./technical/government/About_LSC/State_Planning_Report.txt  
+```
 
-Command 2 output: Find all directories and puts it into stuff2.txt  
-<img width="387" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3430624d-cafa-4b57-bcb0-bd37fc2ed1ee">
+
+Command 2 output: Find all directories and puts it into stuff2.txt
+```
+./technical
+./technical/government
+./technical/government/About_LSC
+./technical/government/EnvProt_Agen
+./technical/government/Alcohol_Problems
+./technical/government/Gen_Account_Office
+./technical/government/Post_Rate_Comm
+./technical/government/Media
+./technical/plos
+./technical/biomed
+./technical/911report
+```
 
 This command is useful because it allows us to discriminate between files and directories and search accordingly.  
   
@@ -95,11 +121,15 @@ find ./technical -name "Media" < "stuff4.txt"
 ```
 
 Command 3 output: Find all files that are named Survey.txt  
-<img width="389" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/163c770e-840d-4aea-87e5-8d1be2650ab0">
-
+```
+./technical/government/Media/Survey.txt
+```
 
 Command 4 output: Find all things that are named Media (Directories in this case):  
-<img width="320" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/63e392f9-c0d9-4648-a0c6-ba90c3e0e538">
+```
+./technical/government/Media
+```
+
 This command is useful because it allows us to search for a file or a directory by a specific name. For instance, we might know the name of a file but not where it is downloaded to.  
   
 ---  
@@ -111,11 +141,25 @@ find ./technical -type d -size +10k > "stuff6.txt"
 ```
   
 Command 5 output: Find all files that are greater than 10 kilobytes:  
-<img width="625" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3a5a004-0750-46d7-8ab4-b39425cf84aa">  
-
+```
+./technical/government/About_LSC/Progress_report.txt
+./technical/government/About_LSC/Strategic_report.txt
+./technical/government/About_LSC/Comments_on_semiannual.txt
+./technical/government/About_LSC/Special_report_to_congress.txt
+./technical/government/About_LSC/CONFIG_STANDARDS.txt
+./technical/government/About_LSC/commission_report.txt
+./technical/government/About_LSC/LegalServCorp_v_VelazquezDissent.txt
+./technical/government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
+./technical/government/About_LSC/LegalServCorp_v_VelazquezOpinion.txt
+./technical/government/About_LSC/diversity_priorities.txt
+./technical/government/About_LSC/reporting_system.txt
+```
   
 Command 6 output: Find all directories that are greater than 10 kilobytes:  
-<img width="333" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d5a9034d-8290-449d-84c2-b562f4a06de4">  
+```
+./technical/biomed
+```
+
 This command is useful because we can search for directories and files that are of a certain size range, or greater/less than.  
   
   
@@ -127,10 +171,44 @@ find ./technical -newer "./technical/911report/chapter-2.txt" > "stuff8.txt"
 ```
 
 Command 7 output: Find all files that are newer than the biomed directory:  
-<img width="619" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/6ba7c595-aa39-4b6d-9d24-541364dd24c4">  
-
+```
+./technical
+./technical/government
+./technical/government/About_LSC
+./technical/government/About_LSC/LegalServCorp_v_VelazquezSyllabus.txt
+./technical/government/About_LSC/Progress_report.txt
+./technical/government/About_LSC/Strategic_report.txt
+./technical/government/About_LSC/Comments_on_semiannual.txt
+./technical/government/About_LSC/Special_report_to_congress.txt
+./technical/government/About_LSC/CONFIG_STANDARDS.txt
+./technical/government/About_LSC/commission_report.txt
+./technical/government/About_LSC/LegalServCorp_V_VelazquezDissent.txt
+./technical/government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
+./technical/government/About_LSC/LegalServCorp_V_VelazquezOpinion.txt
+```
 Command 8 output: Find all files that are newer than the chapter-2.txt file in the 911report directory:  
-<img width="643" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ccbebdef-d2e3-471a-a839-0c585e18c3fc">  
+```
+./technical
+./technical/government
+./technical/government/About_LSC
+./technical/government/About_LSC/LegalServCorp_v_VelazquezSyllabus.txt
+./technical/government/About_LSC/Progress_report.txt
+./technical/government/About_LSC/Strategic_report.txt
+./technical/government/About_LSC/Comments_on_semiannual.txt
+./technical/government/About_LSC/Special_report_to_congress.txt
+./technical/government/About_LSC/CONFIG_STANDARDS.txt
+./technical/government/About_LSC/commission_report.txt
+./technical/government/About_LSC/LegalServCorp_V_VelazquezDissent.txt
+./technical/government/About_LSC/ONTARIO_LEGAL_AID_SERIES.txt
+./technical/government/About_LSC/LegalServCorp_v_VelazquezOpinion.txt
+./technical/government/About_LSC/diversity_priorities.txt
+./technical/government/About_LSC/reporting_system.txt
+./technical/government/About_LSC/State_Planning_Report.txt
+./technical/government/About_LSC/Protocol_Regarding_Access.txt
+./technical/government/About_LSC/ODonnelL_et_al_v_LSCdecision.txt
+./technical/government/About_LSC/conference_highlights.txt
+./technical/government/About_LSC/State_Planning_Special_Report.txt
+```
 This command is useful because we may want to find all files or all directories that are created before or after a certain date. ```-newer``` allows us to do that.
 
 
