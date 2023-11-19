@@ -72,7 +72,10 @@ I also changed the return to be newArray.
 
 # Part 2
 ## **1) Using -type:**  
-<img width="623" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/7e200dec-bc5d-4525-a367-437f66d9a89a">
+```
+find ./technical -type f > "stuff.txt"
+find ./technical -type d > "stuff2.txt"
+```
 
 Command 1 output: Find all files and puts it into stuff.txt  
 <img width="613" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8d256c61-645a-421e-891d-ae08cf78ba60">
@@ -86,7 +89,10 @@ This command is useful because it allows us to discriminate between files and di
 ---
   
 ## **2) Using -name:**  
-<img width="703" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/45aa7437-dfa6-483d-83ad-3537ed188674">
+```
+find ./technical -name "Survey.txt" > "stuff3.txt"
+find ./technical -name "Media" < "stuff4.txt"
+```
 
 Command 3 output: Find all files that are named Survey.txt  
 <img width="389" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/163c770e-840d-4aea-87e5-8d1be2650ab0">
@@ -99,8 +105,10 @@ This command is useful because it allows us to search for a file or a directory 
 ---  
   
 ## **3) Using -size:**  
-<img width="713" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/cd5577ce-1e9e-403d-84ff-7a0d090b8ed1">  
-
+```
+find ./technicial -type f -size +10k > "stuff5.txt"
+find ./technical -type d -size +10k > "stuff6.txt"
+```
   
 Command 5 output: Find all files that are greater than 10 kilobytes:  
 <img width="625" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3a5a004-0750-46d7-8ab4-b39425cf84aa">  
@@ -113,8 +121,10 @@ This command is useful because we can search for directories and files that are 
   
 ---
 ## **4) Using -newer:**  
-<img width="879" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8cc97607-5c49-4c34-bc7b-d9cd20db2b90">  
-
+```
+find ./technical -newer "./technical/biomed" > "stuff7.txt"
+find ./technical -newer "./technical/911report/chapter-2.txt" > "stuff8.txt"
+```
 
 Command 7 output: Find all files that are newer than the biomed directory:  
 <img width="619" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/6ba7c595-aa39-4b6d-9d24-541364dd24c4">  
