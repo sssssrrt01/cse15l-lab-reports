@@ -1,6 +1,6 @@
 # Lab Report 3
 
-## Part 1
+# Part 1
 
 Bugged section of code from Week 4 Lab:  
 
@@ -70,8 +70,8 @@ Fixes: We are assigning values to the wrong array because we are taking the valu
 I also changed the return to be newArray.
 
 
-## Part 2
-**1) Using -type:**  
+# Part 2
+## **1) Using -type:**  
 <img width="623" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/7e200dec-bc5d-4525-a367-437f66d9a89a">
 
 Command 1 output: Find all files and puts it into stuff.txt  
@@ -85,7 +85,7 @@ This command is useful because it allows us to discriminate between files and di
   
   
   
-**2) Using -name:**  
+## **2) Using -name:**  
 <img width="703" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/45aa7437-dfa6-483d-83ad-3537ed188674">
 
 Command 3 output: Find all files that are named Survey.txt  
@@ -98,7 +98,7 @@ This command is useful because it allows us to search for a file or a directory 
   
   
   
-**3) Using -size:**  
+## **3) Using -size:**  
 <img width="713" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/cd5577ce-1e9e-403d-84ff-7a0d090b8ed1">  
 
   
@@ -112,7 +112,7 @@ This command is useful because we can search for directories and files that are 
   
   
   
-**4) Using -newer:**  
+## **4) Using -newer:**  
 <img width="879" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/8cc97607-5c49-4c34-bc7b-d9cd20db2b90">  
 
 
@@ -125,6 +125,6 @@ This command is useful because we may want to find all files or all directories 
 
 
 ## Works Cited
-[Linux Documentation for find](https://linux.die.net/man/1/find)  
+https://linux.die.net/man/1/find
 All of the information used in part 2 was found from the official Linux documentation.
 
