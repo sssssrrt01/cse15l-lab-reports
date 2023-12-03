@@ -9,10 +9,12 @@ Keys clicked: ```git clone https://github.com/sssssrrt01/lab7.git<enter>```
 
 ## Step 6 - Run tests
 Keys clicked:  
-* ```ls<enter>``` to check directory name  
-* ```cd lab7<enter>``` to enter lab7 directory
-* ```ls<enter>``` to check name of test bash file
-* ```sh test.sh<enter>``` to run test  
+1. ```ls<enter>``` to check directory name
+2.  ```cd lab7<enter>``` to enter lab7 directory
+3.  ```ls<enter>``` to check name of test bash file
+4.  ```sh test.sh<enter>``` to run test
+<img width="667" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/fb19e882-b037-455c-8544-bb93cda4c5fd">
+
 
 
 
