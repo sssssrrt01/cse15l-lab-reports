@@ -15,6 +15,15 @@ Keys clicked:
 4.  ```sh test.sh<enter>``` to run test
 <img width="667" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/fb19e882-b037-455c-8544-bb93cda4c5fd">
 
+## Step 7 - Edit the code s.t. test no longer fails 
+Keys clicked:  
+1. ```vim ListExamples.java<enter>``` since I know that is the file that is being tested
+<img width="397" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/86008422-8960-4105-a487-0ab44823bcba">
+
+2. ```:44<enter>lllllli<backspace>2<esc>:wq<enter>``` :44 and enter to jump to line 44, move six to the right, enter insert mode, delete wrong character, press correct character, esc back to normal mode, and type :wq and enter to save changes
+<img width="443" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/598003ea-102b-4f7c-82c8-b8a833fb444a">
+
+
 
 
 
