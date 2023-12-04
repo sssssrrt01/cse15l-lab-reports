@@ -10,8 +10,9 @@ TA response: Hi, the testing file for this code is just a trivial test of adding
 
 ## Step 3 
 Student response: I see! I realize now that I am returning the wrong value. I have fixed it as such.  
-<img width="431" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/66b7834d-8454-4c49-af34-0276382742aa">
 <img width="379" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/d775d9d1-20cd-4509-9d16-b5c18fd2c3dc">
+<img width="442" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ef00c44f-27e3-4f08-a6ad-3ea7ff0d6ff7">
+
 
 ## Step 4
 File setup:
