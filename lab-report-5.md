@@ -36,7 +36,8 @@ Command line used to fix bug: ```vim AdditionTest.java```, which opens the vim e
 
 What to edit: The bug is a result of the wrong object. Despite the values of the objects being the same, the Integer object with a value of 9 is not the same object as the int 9, so that will lead to an assert error, despite the values being the same.  
 
-
+# Lab Report 5 - Part 2
+Something I found really cool about this second half of the class was learning to manipulate files on a remote server. My computer broke and I had to get it repaired, so I actually did this assignment with the ieng6 remote computer instead of downloading the correct version of JUnit, Java, command line tools, etc (which was difficult without admin access on public computer). I realized after the fact of writing the code that I didn't have JUnit properly set up, so I used ```scp``` to move these files from my local machine to a directory in my ieng6 account. From there, I used the vim editor to continue editing the files, as well as using the bash scripts to run the tests. I was able to find a practical use of the remote computer just from my own experience of completing the assignments. 
 
 
 
