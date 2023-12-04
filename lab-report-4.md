@@ -28,10 +28,16 @@ Keys clicked:
 <img width="396" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/fcfcf6bc-3d94-440a-8808-5f42fecfec38">
 
 ## Step 8 - Run tests and see that they pass now 
-Keys clicked: ```sh test.sh<enter>``` run test bash script
+Keys clicked: ```sh test.sh<enter>``` run test bash script  
 <img width="375" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/ab1b69e3-258d-41ca-a4b1-4311df862241">
 
 ## Step 9 - Commit and push changes to GitHub
+Keys clicked:  
+1. ```git add .<enter>``` adds all changed files to be committed
+2. ```git commit -m "fix bug"<enter>``` commit files
+3. ```git push``` push commit to origin (forked repository)  
+<img width="588" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/2d06cfd9-737f-4d6d-ba35-c75baf90a8f4">
+
 
 
 
