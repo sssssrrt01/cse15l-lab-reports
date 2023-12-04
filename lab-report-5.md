@@ -26,6 +26,8 @@ Post-bug fix file:
 Testing file:  
 <img width="475" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/823c075a-b71b-4922-ac52-9856df64eda6">
 
+Command line used to run test: ```sh test2.sh``` 
+
 Bash script to run JUnit test file:  
 <img width="824" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/da285f91-6a95-463d-bcf2-738174894432">
 
