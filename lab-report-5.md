@@ -17,7 +17,7 @@ Student response: I see! I realize now that I am using the wrong assert command 
 
 ## Step 4
 File setup:
-The Addition.java, AdditionTest.java, and test2.sh files are in a directory called lab7 on the ieng6 computer.  
+The Addition.java, AdditionTest.java, and test2.sh files are in a directory called lab7 on the ieng6 computer. The student is responsible for fixing the files so that we achieve the proper functionality as well as fix the testing file.  
 
 Pre-bug fix file:  
 <img width="458" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3d2818b-82b6-414b-9c6e-eee7864c847c">
@@ -32,9 +32,9 @@ Bash script to run JUnit test file:
 <img width="824" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/da285f91-6a95-463d-bcf2-738174894432">
 
 Command line used to run test: ```sh test2.sh``` 
-Command line used to fix bug: ```vim Addition.java```, which opens the vim editor to edit the file, which is saved and closed with ```:wq```  
+Command line used to fix bug: ```vim AdditionTest.java```, which opens the vim editor to edit the file, which is saved and closed with ```:wq```    
 
-What to edit: The bug is a result of the wrong object . Instead of returning the sum of the two numbers, the method just returns one of the input numbers! Instead of returning ```numberOne```, the file should return ```sum```. 
+What to edit: The bug is a result of the wrong object. Despite the values of the objects being the same, the Integer object with a value of 9 is not the same object as the int 9, so that will lead to an assert error, despite the values being the same.  
 
 
 
