@@ -18,7 +18,7 @@ Keys clicked:
 
 ## Step 7 - Edit the code s.t. test no longer fails 
 Keys clicked:  
-1. ```vim ListExamples.java<enter>``` since I know that is the file that is being tested
+1. ```vim ListExamples.java<enter>``` open vim editor to edit ListExamples.java  
 <img width="397" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/86008422-8960-4105-a487-0ab44823bcba">
 
 2. ```:44<enter>lllllli<backspace>2<esc>``` :44 and enter to jump to line 44, move six to the right, enter insert mode, delete wrong character, press correct character, esc back to normal mode
