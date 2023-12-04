@@ -28,7 +28,9 @@ Testing file:
 <img width="475" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/823c075a-b71b-4922-ac52-9856df64eda6">
 
 Command line used to run test: ```sh test2.sh``` 
-Command line used to fix bug: ```vim Addition.java```, which opens the vim editor to edit the file, which is saved and closed with ```:wq```
+Command line used to fix bug: ```vim Addition.java```, which opens the vim editor to edit the file, which is saved and closed with ```:wq```  
+
+What to edit: The bug is a result of the wrong return value. Instead of returning the sum of the two numbers, the method just returns one of the input numbers! Instead of returning ```numberOne```, the file should return ```sum```. 
 
 Bash script to run JUnit test file:  
 <img width="824" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/da285f91-6a95-463d-bcf2-738174894432">
