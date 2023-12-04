@@ -2,8 +2,8 @@
 
 ## Step 1 
 Student post: I'm not sure why my code is not working. I think the issue is because my add method is not adding the numbers together properly, but I can't figure it out. The pictures of the code and error are attached below. Thank you.
-<img width="530" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/48dfbf57-a95f-4a23-a062-9c23ac068324">
-<img width="446" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3540308d-37b9-45b2-a4f2-d752b8476f67">
+<img width="798" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/e9efb15b-2856-4380-ae2f-fedce360484a">
+<img width="458" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3d2818b-82b6-414b-9c6e-eee7864c847c">
 
 ## Step 2
 TA response: Hi, the testing file for this code is just a trivial test of adding two numbers. I can confirm that you are adding the numbers properly, but I would advise you to check your return value of your add method.  
