@@ -1,7 +1,7 @@
 # Lab Report 5 - Part 1
 
 ## Step 1 
-Student post: I'm not sure why my code is not working. I think the issue is because my add method is not adding the numbers together properly, but I can't figure it out. The pictures of the code and error are attached below. Thank you.
+Student post: I'm not sure why my code is not working, it says that <9> is not equal to <9>. I can't figure it out. The pictures of the code and error are attached below. Thank you.
 <img width="798" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/e9efb15b-2856-4380-ae2f-fedce360484a">
 <img width="458" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3d2818b-82b6-414b-9c6e-eee7864c847c">
 
