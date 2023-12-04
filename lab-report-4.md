@@ -1,6 +1,7 @@
 # Lab Report 4
 ## Step 4 - Log into ieng6
 Keys clicked: ```ssh cs15lfa23ao@ieng6.ucsd.edu<enter>``` ssh command to remotely access ieng6 computer, enter to run command  
+I could use ```<up><up><up><up>``` with a number of ups and then ```enter```, but since I have too many commands in terminal history, it is easier if I type it instead since the command is not hard to remember. 
 <img width="592" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/e3ee7903-6e0c-4e8c-8249-57a749e037a6">
 
 ## Step 5 - Clone my fork of the repository
