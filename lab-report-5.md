@@ -6,7 +6,7 @@ Student post: I'm not sure why my code is not working. I think the issue is beca
 <img width="446" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3540308d-37b9-45b2-a4f2-d752b8476f67">
 
 ## Step 2
-TA response: Hi, the testing file for this code is just a trivial test of adding two numbers. I can confirm that you are adding the numbers properly, but you should check your return value of your add method.  
+TA response: Hi, the testing file for this code is just a trivial test of adding two numbers. I can confirm that you are adding the numbers properly, but I would advise you to check your return value of your add method.  
 
 ## Step 3 
 Student response: I see! I realize now that I am returning the wrong value. I have fixed it as such.  
