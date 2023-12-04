@@ -5,8 +5,8 @@ I could use ```<up><up><up><up>``` with a number of ups and then ```enter```, bu
 <img width="592" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/e3ee7903-6e0c-4e8c-8249-57a749e037a6">
 
 ## Step 5 - Clone my fork of the repository
-Keys clicked: ```git clone https://github.com/sssssrrt01/lab7.git<enter>``` git clone the fork of the repository that I made, enter to run command  
-<img width="610" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3033bf7a-9552-4042-93b5-3e62b352390b">
+Keys clicked: ```git clone git@github.com:sssssrrt01/lab7.git<enter>``` git clone the fork of the repository that I made, enter to run command  
+<img width="754" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/2c2184ac-5e3c-4d07-acdd-8433b4c7dd72">
 
 ## Step 6 - Run tests
 Keys clicked:  
