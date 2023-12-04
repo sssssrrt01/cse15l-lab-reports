@@ -2,6 +2,7 @@
 
 ## Step 1 
 Student post: I'm not sure why my code is not working, it says that <9> is not equal to <9>. I can't figure it out. The pictures of the code and error are attached below. Thank you.
+<img width="419" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/60655ffa-8d75-4572-8460-8696b0556ac5">
 <img width="798" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/e9efb15b-2856-4380-ae2f-fedce360484a">
 <img width="458" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3d2818b-82b6-414b-9c6e-eee7864c847c">
 
@@ -19,7 +20,7 @@ File setup:
 The Addition.java, AdditionTest.java, and test2.sh files are in a directory called lab7 on the ieng6 computer.  
 
 Pre-bug fix file:  
-<img width="798" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/e9efb15b-2856-4380-ae2f-fedce360484a">
+<img width="458" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/b3d2818b-82b6-414b-9c6e-eee7864c847c">
 
 Post-bug fix file:  
 <img width="485" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/a683a4db-9f43-4f80-b44f-d33e961947bf">
@@ -33,7 +34,7 @@ Bash script to run JUnit test file:
 Command line used to run test: ```sh test2.sh``` 
 Command line used to fix bug: ```vim Addition.java```, which opens the vim editor to edit the file, which is saved and closed with ```:wq```  
 
-What to edit: The bug is a result of the wrong return value. Instead of returning the sum of the two numbers, the method just returns one of the input numbers! Instead of returning ```numberOne```, the file should return ```sum```. 
+What to edit: The bug is a result of the wrong object . Instead of returning the sum of the two numbers, the method just returns one of the input numbers! Instead of returning ```numberOne```, the file should return ```sum```. 
 
 
 
