@@ -3,7 +3,7 @@
 ## Step 1 
 Student post: I'm not sure why my code is not working. I think the issue is because my add method is not adding the numbers together properly, but I can't figure it out. The pictures of the code and error are attached below. Thank you.
 <img width="530" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/48dfbf57-a95f-4a23-a062-9c23ac068324">
-<img width="453" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/4001a46d-796d-4c08-9813-6d478406b87c">
+<img width="446" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/3540308d-37b9-45b2-a4f2-d752b8476f67">
 
 ## Step 2
 TA response: Hi, the testing file for this code is just a trivial test of adding two numbers. I can confirm that you are adding the numbers properly, but you should check your return value of your add method.  
