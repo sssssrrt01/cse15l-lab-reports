@@ -18,7 +18,7 @@ File setup:
 The Addition.java, AdditionTest.java, and test2.sh files are in a directory called lab7 on the ieng6 computer.  
 
 Pre-bug fix file:  
-<img width="530" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/48dfbf57-a95f-4a23-a062-9c23ac068324">
+<img width="453" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/4001a46d-796d-4c08-9813-6d478406b87c">
 
 Post-bug fix file:  
 <img width="431" alt="image" src="https://github.com/sssssrrt01/cse15l-lab-reports/assets/103394770/66b7834d-8454-4c49-af34-0276382742aa">
